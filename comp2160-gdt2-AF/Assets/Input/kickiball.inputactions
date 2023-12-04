@@ -1,0 +1,34 @@
+{
+    "name": "kickiball",
+    "maps": [
+        {
+            "name": "kick",
+            "id": "797ee66a-4115-4172-bc00-880f73ce7579",
+            "actions": [
+                {
+                    "name": "grad mode",
+                    "type": "Button",
+                    "id": "d71a2ccd-8ae6-447f-a945-9a9be676b531",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43f1d876-4095-4daf-a701-f02038bdd67e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "grad mode",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
